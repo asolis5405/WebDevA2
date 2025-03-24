@@ -1,6 +1,6 @@
 # WebDevA2
 WebDevA2 Piazza project
-npm install express nodemon mongoose dotenv body-parser
+* npm install express nodemon mongoose dotenv body-parser
 
 * Install the joi package for validations
 npm install joi
