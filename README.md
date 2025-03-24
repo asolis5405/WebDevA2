@@ -10,7 +10,7 @@ npm install express nodemon mongoose dotenv body-parser
  npm install bcryptjs
 
 * Install the JWT package for generating auth-tokens\
- npm install jsonwebtoken\
+ npm install jsonwebtoken
 
 The Piazza Network allows the user to complete the following tasks:
 * Create a post (requires authentication -> user must be signed in)\
