@@ -1,12 +1,12 @@
 # WebDevA2
-WebDevA2 Piazza project/
+WebDevA2 Piazza project\
 npm install express nodemon mongoose dotenv body-parser
 
-* Install the joi package for validations/
+* Install the joi package for validations\
  npm install joi
 
-* Install the encryption/decryption library/
+* Install the encryption/decryption library\
  npm install bcryptjs
 
-* Install the JWT package for generating auth-tokens/
+* Install the JWT package for generating auth-tokens\
  npm install jsonwebtoken 
